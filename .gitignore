@@ -1,0 +1,7 @@
+/.vscode
+/BuildingDatabase.sql
+
+/csv_files/
+.vscode/
+*.csv
+!sql_load/
