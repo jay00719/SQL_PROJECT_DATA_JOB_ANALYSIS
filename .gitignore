@@ -5,4 +5,4 @@
 .vscode/
 *.csv
 !sql_load/
-!sql_load1
+!sql_load1/
